@@ -14,9 +14,9 @@ import pandas as pd
 import textwrap
 
 from load_process_data import load_data
-wdi_indicator_code_name_topic, wdi_country_code_name, wdi_country, wdi, wdi_pivot, corr_matrix, corr_matrix_sign, corr_sig_matrix = load_data()
+wdi_indicator_code_name_topic, wdi_country, wdi, wdi_pivot, corr_matrix, corr_matrix_sign, corr_sig_matrix = load_data()
 
-figheight = 800
+figheight = 750
 
 plotly_colors = [
     '#1f77b4',  # muted blue
@@ -68,16 +68,25 @@ layout = html.Div([
             marks={n: str(n) for n in n_plots_lst},
             value=9,
         ),
-        html.Br(),
-        html.Label('Number of plot pages'),
-        dcc.Slider(
+        # html.Br(),
+        html.Label('Currently showing page:'),
+        dcc.Dropdown(
             id = 'n_pages',
-            min=1,
-            max=(wdi_pivot.shape[1]-2)//12,
+            # min=1,
+            # max=(wdi_pivot.shape[1]-2)//12,
             #step=None,
-            marks={n: str(n) for n in range(1,np.ceil((wdi_pivot.shape[1]-2)/12).astype(int)+1)},
+            options=[{"label": n, "value": n} for n in range(1,np.ceil((wdi_pivot.shape[1]-2)/12).astype(int)+1)],
             value=1,
-        )  
+        )
+        # html.Label('Number of plot pages'),
+        # dcc.Slider(
+        #     id = 'n_pages',
+        #     min=1,
+        #     max=(wdi_pivot.shape[1]-2)//12,
+        #     #step=None,
+        #     marks={n: str(n) for n in range(1,np.ceil((wdi_pivot.shape[1]-2)/12).astype(int)+1)},
+        #     value=1,
+        # )
     ],
     style={'width': '48%', 'float': 'right', 'display': 'inline-block'}),
     html.Div([

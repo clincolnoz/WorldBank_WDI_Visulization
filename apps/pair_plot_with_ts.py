@@ -14,7 +14,7 @@ import pandas as pd
 import textwrap
 
 from load_process_data import load_data
-wdi_indicator_code_name_topic, wdi_country_code_name, wdi_country, wdi, wdi_pivot, corr_matrix, corr_matrix_sign, corr_sig_matrix = load_data()
+wdi_indicator_code_name_topic, wdi_country, wdi, wdi_pivot, corr_matrix, corr_matrix_sign, corr_sig_matrix = load_data()
 
 available_indicators = wdi.index.get_level_values(1).unique()
 figheight = 800
