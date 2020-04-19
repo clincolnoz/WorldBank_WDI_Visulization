@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>World Bank WDI Visualization</dc:title>
+    <dc:creator>Craig N Lincoln (https://orcid.org/0000-0003-3239-0114)</dc:creator>
+    <dc:subject>Interactive visualoization to explore correlations between World Bank - World Development Indicators (WDI)</dc:subject>
+    <dc:description>
+        An interactive visualization tool that allows users to explore the WDI dataset with afocus on finding correlations between pairs of indicators.
+    </dc:description>
+    <dc:identifier>https://zenodo.org/badge/latestdoi/234558640</dc:identifier>
+    <dc:date>19.04.2020</dc:date>
+    <dc:type>Visualization</dc:type>
+    <dc:format>PLotlyDashApp</dc:format>
+    <dc:source>World Bank Group. (2020). World Bank World Development Indicators, 1960-2019. [data collection]. 27th Edition. UK Data Service. SN: 4814, http://doi.org/10.5257/wb/wdi/2019Q4</dc:source>
+    <dc:language>English</dc:language>
+    <dc:coverage>1960 - 2020</dc:coverage>
+    <dc:rights>MIT</dc:rights>
+</metadata>

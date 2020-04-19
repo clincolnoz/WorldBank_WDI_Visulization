@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:dcat="http://www.w3.org/ns/dcat#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#">
+
+  <rdf:Description rdf:about="https://datacatalog.worldbank.org/dataset/world-development-indicators">
+    <rdf:type rdf:resource="http://rdfs.org/sioc/ns#Item"/>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Document"/>
+    <content:encoded>&lt;p&gt;The primary World Bank collection of development indicators, compiled from officially-recognized international sources. It presents the most current and accurate global development data available, and includes national, regional and global estimates&lt;/p&gt;
+</content:encoded>
+    <dc:creator></dc:creator>
+    <dc:Frequency>3</dc:Frequency>
+    <dcat:granularity></dcat:granularity>
+    <dc:license>notspecified</dc:license>
+    <dc:accessRights></dc:accessRights>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/08feba-8a62-11e6-ae22-56b6b6490001"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/08feba-8a62-11e6-ae22-56b6b6490002"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/08feba-8a62-11e6-ae22-56b6b6490003"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/08feba-8a62-11e6-ae22-56b6b6490005"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/be64775d-413a-4912-ac55-1eb9e37b5ff9"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/71383bc9-9fde-4d31-8038-3587077d7f21"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/672061bb-46be-48d5-ac40-05ca67c2ecf6"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/8d6ad579-c2c1-4670-9e11-e1d596b06b68"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/d0431b28-c77b-49f3-9304-3f790861f1bb"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/bd0f34a5-33d3-47c2-889d-9f6442e37f8a"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c47f6afb-39ea-46b3-9609-933955af87e3"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/d0e8f418-007a-4b48-abb1-2019ec699c28"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3946407a-1a67-4ad5-b298-b7c44abbe475"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c51bc511-7690-4e97-a144-1b50c38bd811"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/04f060d3-b0bd-4390-90ce-73ddd596d37a"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c7f6fc86-c602-4306-ba27-e9c2a4275692"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3b4816b0-012d-483b-b17c-c16915998044"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/be2e4ac0-cca0-41a0-bd7b-ed82a329da81"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/0c5c0ef5-8738-4f37-a54f-08f1f20ed2d9"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e89faa2a-7f95-4bec-a205-38e4eb674358"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/269079df-904d-4ed9-89d9-39a7ee5e7e54"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/6d5b1803-f3a7-4846-ba3d-d8b04195d331"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/60b9fbe4-62d6-4a6f-8621-3b6a04c6a411"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/ff3f66fd-8381-428a-b7fa-47931e10665c"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e1a6ae2a-e65e-47b9-bb1a-5169447603e0"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e43a770b-0758-4568-bb92-75de693369d7"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b4fcbc29-630a-4268-a62b-6dfa6ff10e0d"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3ba82067-d6a9-4df2-bc1f-1279f85dc629"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/9bf638c8-16c8-4808-957e-e1719a35afa6"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c0bd341e-926f-41eb-bb8e-22975480d59e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/7fd44a3d-50b6-4fe9-a856-fb8b6f5a5af2"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/01823c1c-8b05-40d2-82b5-823f2b857ce8"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/96fa271c-c6c2-4223-a158-ab803793fd31"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/88f744b5-3c55-45c9-b261-e72047d07a49"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/1910a806-4a79-41f9-a012-1128975afaf4"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a6fb1f21-be40-4574-8e87-dc11ff22ea5f"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e73a07b0-a2e9-4641-bd0b-3cd252839e7b"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/f3e33c1d-d6bd-4e0f-aeaa-6383ca6d6340"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/007e73c7-9418-4d48-90e3-f8045aba5a35"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e09f0b25-a4ca-40c3-baec-88799731efb1"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e927da3d-0fed-4482-8c00-025bf2ff3c71"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/25d2e4bf-c48b-44f0-85bf-932966793c15"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3f171a29-866e-4d5b-b316-ecce4c1191f2"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a2708aa4-8729-4c8e-b304-79312bb28c9d"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/19fdefce-b67d-4f01-a187-1b4bfef874c0"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/8640b0d8-f007-496b-86b0-d622bfdf7660"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b5267b21-33ec-4fe4-87cd-574dd317750e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/5d5b5e6b-091d-4076-942a-7c7c7e18a98a"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/53335d81-f43f-4d85-8ecf-2aacc5dad503"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/8250b841-69ae-4890-9cb9-f767f97abfd5"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/5bcb2e24-0a85-422a-8aea-82a9d19ed784"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/1757510a-6dd3-4a7b-98e1-d7934e181d20"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a3bbd201-f21f-4b61-94d1-4d9d5f870134"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/bcc0f30f-97b9-4aef-8244-9bdc5eec5b05"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/670289be-1eb6-49e0-915d-a5b6d26de999"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e5027e05-1ab5-4530-af97-a0c3ed69b4a7"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/681f0012-62e1-4fdc-9603-97d96dd89a41"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b75b99e5-05f0-4d4c-93cf-e4102f6e35d4"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/dea46762-b632-4d97-b4c6-c1404369ea8d"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/26dd9a7b-f957-4793-8c41-bdc024898423"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/9fcc8855-f890-4c8e-8183-25abf338be0f"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/421aac71-98a7-4050-9d53-1f15f310a11c"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/d02283b5-7efb-4dfc-aaf4-05c762bbfcc5"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/8c9261f4-d349-4ff7-bd8f-614e9817942e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a115d9d7-22f5-4160-a3e2-391a99489fb9"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/061918f5-bf02-4c24-9773-fed894db0024"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b5d97016-d23c-4155-8eab-d29e818f71ad"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b79c4e27-1bd9-4d59-be89-44088a4e77c2"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e312ca28-8090-4974-8bba-e749ee558c6f"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/ccbc6175-bd40-44ab-95e6-1a040376eb35"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/ef9fa5b8-e5e0-4a0a-b98c-937eecb84b81"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/16fe43cd-9d85-4c52-9a37-9c1c423088fd"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/82ec2684-b409-4036-87fa-84bc628934b9"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b2486e93-b378-4440-9bde-7421cf48e918"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/35801cd7-48d2-4db2-882e-bb4a676c2656"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/2277aeaa-3b38-4fcc-b089-390a2949eebe"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/f898ae63-d70f-45ed-8860-856b671ba0a0"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a325f0ec-7a76-4d28-843e-0f9aee9b86e2"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/193c35ca-3e71-49a4-af18-9f3e8093dead"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/0e9a25b3-6456-4c35-8d4c-97e4f9999191"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a194e6a6-7d84-4bad-ada0-0e478653fd83"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/76626b04-c5bc-4aea-a7ee-3c1cac0178df"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c5a34ed8-5b5b-40ef-b689-19c0ee8fe5ad"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/9e661453-a524-4424-b82c-738ff1e8c9cc"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/499a5902-c3c3-455f-8f3c-9eed6ac0eced"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/53ba87ad-54d4-41e4-ac83-16066f651bc5"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/16cc7ae5-8a09-443a-b7f1-4479d24671e6"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/d0028ec0-629b-463c-834c-742d53a448ea"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/8a67f9f0-0f88-4d11-833b-0187b014f1cc"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/38ecc402-5245-4447-8d7e-1262ce0423e0"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/aeb3336c-c0e6-46d1-b33b-897b9bf68b14"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/b9dfcc06-9dab-414a-b7f9-6068b1af5e87"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/0a2f7aae-1bb7-4dbc-a3a8-a0306a0ff77c"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3cee8783-9689-478c-a691-17627a2cb0a7"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/64d7bf83-196c-4842-ba6f-c7adbd9bcc6e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/9c182adf-69d0-40da-9d88-093344154eb9"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c628a8d0-850d-4a15-ac23-20e1c9e8bb9f"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/f06a3950-19df-4869-aff7-1f89253098c8"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c63969db-162c-4417-89ed-b4a6a0774b19"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/18c52102-9dde-42e1-b25d-242f0394ce3e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/731ab576-290b-463d-bb34-578b35b5406b"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/0d022c4a-fb92-4177-9e3c-f68b60850f61"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/c54d3063-41f1-4d70-9739-73cf354e06e3"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/11cd8c35-db08-473a-a57f-9fcf8a63b90c"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/22d2d3f1-9b2c-46e5-9d4c-2d0e1f513e7e"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/5c7cece2-141b-4a37-84da-fe5b94516c02"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/5de90c51-c60e-4ff5-97de-445d77edf3c8"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/3329f69c-73d5-4551-a90a-8d4c210a92ff"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/9b2cbb6c-a505-45ec-b23a-655841528b7d"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/07e34c9f-9360-4907-9a55-4cfd72bb06df"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/75db6a81-d541-4c97-90fe-e069ae5b490d"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/a7cdf54e-0354-40f3-9dc2-2eca74b35c58"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/e44d248f-b32f-4a35-bf78-256d2c59e232"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/440acd3b-d7d1-4e42-a1a8-05a8d8841f1b"/>
+    <dcat:Distribution rdf:resource="https://datacatalog.worldbank.org/dataset/world-development-indicators/resource/d464ec83-5ba1-4330-a37d-b0e12bf05b47"/>
+    <dc:temporal>1960 - 2019</dc:temporal>
+    <dc:title>World Development Indicators</dc:title>
+    <dc:date rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-31T00:28:40-05:00</dc:date>
+    <dc:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2017-01-31T00:28:40-05:00</dc:created>
+    <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2020-04-09T16:29:09-04:00</dc:modified>
+    <sioc:num_replies rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">0</sioc:num_replies>
+  </rdf:Description>
+
+</rdf:RDF>

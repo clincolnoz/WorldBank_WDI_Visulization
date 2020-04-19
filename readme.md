@@ -1,7 +1,5 @@
 # Visualization Dashboard for World Bank's World Development Indicators
-### Craig Lincoln
-### 2020.04.18
-
+[![DOI](https://zenodo.org/badge/234558640.svg)](https://zenodo.org/badge/latestdoi/234558640)
 
 ## To run visualization
 #### get the data
@@ -18,7 +16,8 @@ copy into project root
 #### open in browser
     http://127.0.0.1:8050/
 
-
+## License
+Standard MIT. See LICENSE.txt
 
 ## 1. Introduction
 The [World Bank's World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/) dataset comprises 1431 world development indicators (WDI), from 1960 to present, for 264 countries and aggregations by region, income, etc. The task was to develop an interactive visualization tool that allowed for explorations of the dataset. Specifically, to determine which WDIs effect the WDI of interest. This was broken down into two sub-tasks, determining which WDIs correlate with the WDI in focus and if these WDIs are leading or trailing indictors.
@@ -36,8 +35,8 @@ Find project at [https://github.com/clincolnoz/WorldBank_WDI_Visulization.git](h
 
 Required packages can be found in requirements.txt
 
-![](figures/DataFlow.jpg)
+![](documentation/DataFlow.jpg)
 *Figure 1 Project structure and data flow*
 
-![](figures/Dashboard.png)
+![](documentation/Dashboard.png)
 *Figure 2 Screen shot of dashboard*
