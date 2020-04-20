@@ -1,5 +1,10 @@
 # Visualization Dashboard for World Bank's World Development Indicators
-[![DOI](https://zenodo.org/badge/234558640.svg)](https://zenodo.org/badge/latestdoi/234558640)
+project: [![DOI](https://zenodo.org/badge/234558640.svg)](https://zenodo.org/badge/latestdoi/234558640)
+
+DMP: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757520.svg)](https://doi.org/10.5281/zenodo.3757520)
+
+maDMP: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3757655.svg)](https://doi.org/10.5281/zenodo.3757655)
+
 
 ## To run visualization
 #### get the data

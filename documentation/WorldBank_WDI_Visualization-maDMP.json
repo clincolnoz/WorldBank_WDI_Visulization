@@ -1,0 +1,87 @@
+{
+	"dmp": {
+        "dmp_id": {
+            "identifier": "https://doi.org/10.5281/zenodo.3757655",
+            "type": "doi"
+        },
+        "title": "WorldBank_WDI_Visualization-maDMP",
+        "description": "Initial data management plan for project WorldBank_WDI_Visualization https://doi.org/10.5281/zenodo.3757173",
+        "language": "eng",
+        "created": "2020-04-20T07:00:00.000Z",
+        "contact": {
+            "contact_id": {
+                "identifier": "https://orcid.org/0000-0003-3239-0114",
+                "type": "orcid"
+            },
+            "mbox": "clincolonoz@gmail.com",
+            "name": "Craig N Lincoln"
+        },
+        "contributor": [
+            {
+                "contributor_id": {
+                    "identifier": "https://orcid.org/0000-0003-3239-0114",
+                    "type": "orcid"
+                },
+                "mbox": "clincolnoz@gmail.com",
+                "name": "Craig N Lincoln",
+                "role": ["Data Steward", "Creator"]
+            }
+        ],
+        "cost": [],
+        "dataset": [
+            {   
+                "dataset_id": {
+                    "identifier": "http://doi.org/10.5257/wb/wdi/2019Q4",
+                    "type": "doi"
+                },
+                "title": "WORLD DEVELOPMENT INDICATORS",
+                "description": "The World Development Indicators is a compilation of relevant, high-quality, and internationally comparable statistics about global development and the fight against poverty. The database contains 1,600 time series indicators for 217 economies and more than 40 country groups, with data for many indicators going back more than 50 years.",
+                "issued": "2019Q4",
+                "language": "eng",
+                "personal_data": "no",
+                "sensitive_data": "no",
+                "type": "http://purl.org/spar/fabio/Dataset",
+                "keyword": ["World Development Indicators", "WDI"],
+                "distribution": [
+                    {   
+                        "access_url": "http://datatopics.worldbank.org/world-development-indicators/",
+                        "byte_size": 63100000,
+                        "data_access": "open",
+                        "download_url": "http://databank.worldbank.org/data/download/WDI_csv.zip",
+                        "format": "csv",
+                        "license": [
+                            {
+                                "license_ref": "https://creativecommons.org/licenses/by/4.0/",
+                                "start_date": "1960-01-01"
+                            }
+                        ],
+                        "host": {
+                            "title": "The World Bank",
+                            "url": "https://databank.worldbank.org/home.aspx"
+                        }
+                    }
+                ],
+                "metadata": [
+                        {
+                            "description": "Provides version updates",
+                            "language": "eng",
+                            "metadata_standard_id": {
+                                "identifier": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+                                "type": "url"
+                            }
+                        }
+                    ]
+            }
+        ],
+        "project": [
+            {
+                "start": "2020-01-07",
+                "end": "2020-04-20",
+                "title": "WorldBank_WDI_Visualization",
+                "description": "Create an interactive visualization to explore World Bank - development indicators dataset. https://doi.org/10.5281/zenodo.3757173"
+            }
+        ],
+        "ethical_issues_exist": "no",
+        "modified": "2020-04-20T09:04:00.000Z"
+    }
+}
